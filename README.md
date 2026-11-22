@@ -18,7 +18,7 @@ Análisis exploratorio, estadística descriptiva y modelado predictivo de los si
 
 ## Video y presentación
 
-- 🎥 **Video de sustentación:** [Ver video]((https://youtu.be/86zOq-pxhFI))
+- 🎥 **Video de sustentación:** [Ver video] (https://youtu.be/86zOq-pxhFI)
 - 🎞️ **Presentación en línea:** [Ver presentación](https://joanadrte-pixel.github.io/Siniestros-viales-bogota/presentacion/)
 - 📄 **Presentación en PDF:** [Descargar](presentacion/presentacion_siniestros.pdf)
 
